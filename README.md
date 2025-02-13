@@ -27,4 +27,4 @@ MIT License
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/efernandes-tech) | [GitHub](https://github.com/efernandes-tech)
+[LinkedIn](https://www.linkedin.com/in/efernandes-tech) | [GitHub](https://github.com/efernandes-tech) | [Site](https://edersonfernandes.com.br)
